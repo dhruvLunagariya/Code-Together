@@ -32,7 +32,7 @@ const Home = () => {
     return (
         <div className="homePageWrapper">
             <div className="formWrapper">
-            <h1 className='head'>Chat-Together</h1>
+            <h1 className='head'>Code-Together</h1>
             <hr></hr><br></br>
                 <h4 className="mainLabel">Paste invitation ROOM ID</h4>
                 <div className="inputGroup">
